@@ -1,5 +1,5 @@
 {
-    "algo": "cryptonight",
+    "algo": "lyra2v2-web",
     "api": {
         "port": 0,
         "access-token": null,
